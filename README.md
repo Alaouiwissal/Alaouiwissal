@@ -1,7 +1,7 @@
-<h1 align="center">Hallo 👋, ich bin Wissal Saddiki Alaoui</h1>
+ <h1 align="center">Hallo 👋, ich bin Wissal Saddiki Alaoui</h1>
 <h3 align="center">Redi school Studentin</h3>
 
-- Der Zeit suche ich nach [einer Ausbildung](als Fachinformatikerin)
+- Derzeit suche ich nach [einer Ausbildung](als Fachinformatikerin)
 
 - 🌱Ich lerne momentan **Python**
 
