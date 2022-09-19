@@ -1,11 +1,11 @@
   <h1 align="center">Hallo 👋, ich bin Wissal Saddiki Alaoui</h1>
 <h3 align="center">Redi school Studentin</h3>
 
-- Derzeit suche ich nach [einer Ausbildung](als Fachinformatikerin)
+- Derzeit bin ich in [einer Ausbildung](als Fachinformatikerin Anwendungdentwicklung)
 
-- 🌱Ich lerne momentan **Python,Html und Css**
+- 🌱Ich lerne momentan **C#**
 
-- 👯 Ich suche nach **einer münchner IT Firma**
+- 👯 Ich arbeite in **einer münchner IT Firma**
 
 - 👨‍💻 Meine Projekte sind verfügbar auf [mein Github account](mein Github account)
 
